@@ -25,3 +25,8 @@ houses house housess ---> ``houses1house1housess1``
 
 2. Submit your solution with the "submit" command in the terminal, for example like this:
 ``submit dog3cat3car1sun1``
+
+
+### Solution in TypeScript
+
+- [Solution_Challenge_01](https://github.com/Othamae/codember_23/blob/main/challenge_01/challenge_01.ts)
