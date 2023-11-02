@@ -1,9 +1,13 @@
+<div align="center">
+
 ![Codember](./Codember.jpg)
 
-[codember](https://codember.dev)
+[Codember](https://codember.dev) by  [@midudev](https://github.com/midudev)
+
+</div>
+
 
 ## 2023
-
 
 ### Challenges
 
