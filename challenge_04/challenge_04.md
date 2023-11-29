@@ -31,4 +31,4 @@ Determine how many files are valid according to their rules.
 
 ### Solution in TypeScript
 
-- [Solution_Challenge_04](https://github.com/Othamae/codember_23/blob/main/challenge_03/challenge_04.ts)
+- [Solution_Challenge_04](https://github.com/Othamae/codember_23/blob/main/challenge_04/challenge_04.ts)
