@@ -21,6 +21,7 @@ Result: ❌ Invalid (id is not alphanumeric, the _ is extra)
 
 Entry: 494ee0,madeval,mdv@twitch.tv,,
 Result: ✅ Valid (age and location are optional)
+
 Entry: 494ee0,madeval,twitch.tv,22,Montevideo
 Result: ❌ Invalid (email is not valid)
 
